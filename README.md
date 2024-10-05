@@ -1,4 +1,3 @@
----
 # LeetCode Solutions Repository
 
 Welcome to my LeetCode solutions repository! 🚀  
@@ -14,5 +13,3 @@ This repository is maintained using **LeetHub**, a simple Chrome extension that 
 
 ## Thank You
 A big shoutout to the developer of LeetHub for building such an awesome tool! It makes tracking and sharing my progress seamless. 🙌
-
----
