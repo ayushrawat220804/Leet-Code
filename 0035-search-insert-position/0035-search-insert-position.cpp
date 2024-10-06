@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// i got timed out from hitesh sir discord channel
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
