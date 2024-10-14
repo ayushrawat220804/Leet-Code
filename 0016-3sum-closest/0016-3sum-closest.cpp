@@ -9,15 +9,15 @@ public:
             int j = n-1;
             while ( i < j ) {
                 int sum = nums[k] + nums[j] + nums[i];
-                if (abs(target - sum) < abs(target - closestsum)){
+                if (abs(target - sum) < abs(target - closestsum))
                     closestsum = sum;
-                }
-                if ( sum < target ){
+                
+                if ( sum < target )
                     i++;
-                }
-                else {
+                
+                else 
                     j--;
-                }
+                
             }
         }
         return closestsum;
