@@ -27,6 +27,7 @@ public:
                     while (start < end && nums[start] == nums[start - 1]) {
                         start++;
                     }
+                    
                 } else if (nums[start] + nums[end] < -first) {
                     start++;
                 } else {
