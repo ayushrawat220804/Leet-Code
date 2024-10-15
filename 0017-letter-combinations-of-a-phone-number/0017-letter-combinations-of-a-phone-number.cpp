@@ -25,6 +25,7 @@ public:
     }
     
     // Helper function is now public
+private:
     void backtrack(const string& digits, int index, string& currentCombination, vector<string>& result, const vector<string>& digitToLetters) {
         if (index == digits.size()) {
             result.push_back(currentCombination);
