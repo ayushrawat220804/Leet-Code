@@ -29,7 +29,7 @@ public:
         return result;
     }
     
-private:
+public:
     // Helper function to perform backtracking
     void backtrack(const string& digits, int index, string& currentCombination, vector<string>& result, const vector<string>& digitToLetters) {
         // Base case: if the current combination's length is equal to the input digits
