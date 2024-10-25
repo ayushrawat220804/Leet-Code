@@ -1,43 +1,40 @@
 class Solution {
-public:
-    vector<string> letterCombinations(string digits) {
-        if (digits.empty()) {
-            return {};
-        }
-        
-        const vector<string> digitToLetters = {
-            "",    // 0 (no letters)
-            "",    // 1 (no letters)
-            "abc", // 2
-            "def", // 3
-            "ghi", // 4
-            "jkl", // 5
-            "mno", // 6
-            "pqrs",// 7
-            "tuv", // 8
-            "wxyz" // 9
-        };
-        
-        vector<string> result;
-        string currentCombination;
-        backtrack(digits, 0, currentCombination, result, digitToLetters);
-        return result;
-    }
-    
-    // Helper function is now public
 private:
-    void backtrack(const string& digits, int index, string& currentCombination, vector<string>& result, const vector<string>& digitToLetters) {
-        if (index == digits.size()) {
-            result.push_back(currentCombination);
+    // Helper function to generate combinations recursively
+    void solve(string digit, string output, int index, vector<string>& ans, string mapping[]) {
+        // Base case: if we've processed all the digits, store the output
+        if (index >= digit.length()) {
+            ans.push_back(output);
             return;
         }
         
-        string letters = digitToLetters[digits[index] - '0'];
+        // Convert the current digit character to an integer (e.g., '2' -> 2)
+        int number = digit[index] - '0';
+        string value = mapping[number];   // Get the corresponding string of letters
         
-        for (char letter : letters) {
-            currentCombination.push_back(letter); 
-            backtrack(digits, index + 1, currentCombination, result, digitToLetters);
-            currentCombination.pop_back();         
+        // Loop through all characters in the corresponding string
+        for (int i = 0; i < value.length(); i++) {
+            output.push_back(value[i]);   // Choose a character
+            solve(digit, output, index + 1, ans, mapping); // Recursively process the next digit
+            output.pop_back();            // Backtrack to remove the last character
         }
+    }
+
+public:
+    vector<string> letterCombinations(string digits) {
+        vector<string> ans;
+        if (digits.length() == 0)  // Handle the case of an empty input string
+            return ans;
+        
+        string output = "";  // Initialize the output string (without space)
+        int index = 0;
+        
+        // Mapping of digits to their corresponding letters
+        string mapping[10] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        
+        // Start the recursive solving process
+        solve(digits, output, index, ans, mapping);
+        
+        return ans;
     }
 };
