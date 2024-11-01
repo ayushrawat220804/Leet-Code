@@ -11,13 +11,10 @@ public:
                 int sum = nums[k] + nums[j] + nums[i];
                 if (abs(target - sum) < abs(target - closestsum))
                     closestsum = sum;
-                
                 if ( sum < target )
                     i++;
-                
                 else 
                     j--;
-                
             }
         }
         return closestsum;
