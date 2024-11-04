@@ -1,5 +1,4 @@
 class Solution {
-private:
     // Helper function to generate combinations recursively
     void solve(string digit, string output, int index, vector<string>& ans, string mapping[]) {
         // Base case: if we've processed all the digits, store the output
