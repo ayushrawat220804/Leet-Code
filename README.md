@@ -13,3 +13,15 @@ This repository is maintained using **LeetHub**, a simple Chrome extension that 
 
 ## Thank You
 A big shoutout to the developer of LeetHub for building such an awesome tool! It makes tracking and sharing my progress seamless. 🙌
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushrawat220804/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushrawat220804/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
