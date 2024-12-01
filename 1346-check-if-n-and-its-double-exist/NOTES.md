@@ -27,12 +27,3 @@ return true;
 } else if (arr[i]%2 == 0 && st.find(arr[i]/2) != st.end()){
 return true;
 }
-st.insert(arr[i]);
-}
-return false;
-}
-};
-​
-// method 3 : Binary Search
-​
-​
