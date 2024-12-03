@@ -13,33 +13,3 @@ This repository is maintained using **LeetHub**, a simple Chrome extension that 
 
 ## Thank You
 A big shoutout to the developer of LeetHub for building such an awesome tool! It makes tracking and sharing my progress seamless. 🙌
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushrawat220804/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushrawat220804/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushrawat220804/Leet-Code/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ayushrawat220804/Leet-Code/tree/master/0010-regular-expression-matching) |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushrawat220804/Leet-Code/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-## String Matching
-|  |
-| ------- |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushrawat220804/Leet-Code/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ayushrawat220804/Leet-Code/tree/master/0010-regular-expression-matching) |
-## Recursion
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ayushrawat220804/Leet-Code/tree/master/0010-regular-expression-matching) |
-<!---LeetCode Topics End-->
