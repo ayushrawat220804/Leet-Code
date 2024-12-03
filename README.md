@@ -13,23 +13,3 @@ This repository is maintained using **LeetHub**, a simple Chrome extension that 
 
 ## Thank You
 A big shoutout to the developer of LeetHub for building such an awesome tool! It makes tracking and sharing my progress seamless. 🙌
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2232-adding-spaces-to-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2232-adding-spaces-to-a-string) |
-## Two Pointers
-|  |
-| ------- |
-| [2232-adding-spaces-to-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2232-adding-spaces-to-a-string) |
-## String
-|  |
-| ------- |
-| [2232-adding-spaces-to-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2232-adding-spaces-to-a-string) |
-## Simulation
-|  |
-| ------- |
-| [2232-adding-spaces-to-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2232-adding-spaces-to-a-string) |
-<!---LeetCode Topics End-->
