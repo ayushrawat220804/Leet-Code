@@ -20,11 +20,13 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ayushrawat220804/Leet-Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ayushrawat220804/Leet-Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
