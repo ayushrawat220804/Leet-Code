@@ -12,7 +12,7 @@ public:
 
             if(sum + num <= maxSum) {
                 count++;
-                sum += num;
+                sum = sum + num;
             } else {
                 break;
             }
