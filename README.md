@@ -32,4 +32,24 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Hash Table
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Binary Search
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Sorting
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
