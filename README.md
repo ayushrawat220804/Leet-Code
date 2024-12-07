@@ -35,6 +35,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Array
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Binary Search
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
