@@ -43,6 +43,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
