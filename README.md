@@ -20,6 +20,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -39,6 +40,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -68,6 +70,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
