@@ -44,6 +44,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
 ## Greedy
@@ -68,6 +70,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Sliding Window
 |  |
 | ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
