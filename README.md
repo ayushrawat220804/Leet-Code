@@ -50,6 +50,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,4 +104,9 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Math
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
