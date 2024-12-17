@@ -29,6 +29,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ayushrawat220804/Leet-Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -54,6 +55,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Hash Table
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -69,6 +71,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Greedy
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -83,6 +86,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -98,6 +102,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Counting
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
