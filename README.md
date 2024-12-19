@@ -44,6 +44,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
@@ -72,6 +73,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -79,6 +81,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -118,9 +121,11 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
