@@ -9,7 +9,7 @@ This repository is automatically updated with my solved LeetCode problems, organ
 ## How It Works
 This repository is maintained using **LeetHub**, a simple Chrome extension that automates the process of pushing solved LeetCode problems to GitHub. It automatically creates the files mentioned above and comments my code with time and space complexity.
 
-### 🛠️ [Check out the LeetHub extension here](https://github.com/QasimWani/LeetHub)
+### 🛠️ [Check out the LeetHub extension here](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm)
 
 ## Thank You
 A big shoutout to the developer of LeetHub for building such an awesome tool! It makes tracking and sharing my progress seamless. 🙌
