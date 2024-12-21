@@ -128,4 +128,12 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
