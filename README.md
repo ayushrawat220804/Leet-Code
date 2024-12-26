@@ -37,6 +37,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
+| [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -168,4 +170,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
