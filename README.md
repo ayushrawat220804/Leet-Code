@@ -38,6 +38,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2058-concatenation-of-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2058-concatenation-of-array) |
