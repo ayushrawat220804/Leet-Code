@@ -40,6 +40,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ayushrawat220804/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/ayushrawat220804/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushrawat220804/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
@@ -53,6 +54,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ayushrawat220804/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/ayushrawat220804/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushrawat220804/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
