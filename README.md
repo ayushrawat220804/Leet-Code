@@ -31,6 +31,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushrawat220804/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushrawat220804/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -75,6 +76,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -118,6 +120,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushrawat220804/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
@@ -191,4 +194,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
