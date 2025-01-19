@@ -63,6 +63,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
+| [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ayushrawat220804/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
@@ -134,6 +135,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -209,6 +211,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -252,4 +255,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushrawat220804/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
