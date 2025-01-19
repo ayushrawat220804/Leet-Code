@@ -70,6 +70,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushrawat220804/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushrawat220804/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -136,6 +137,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -213,10 +215,12 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -259,4 +263,9 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
