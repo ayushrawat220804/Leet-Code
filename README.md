@@ -74,6 +74,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1524-string-matching-in-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushrawat220804/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushrawat220804/Leet-Code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushrawat220804/Leet-Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -220,6 +221,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -268,6 +270,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ayushrawat220804/Leet-Code/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushrawat220804/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
