@@ -207,6 +207,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -223,6 +224,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
@@ -230,6 +232,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -286,4 +289,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
