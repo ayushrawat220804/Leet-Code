@@ -90,6 +90,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushrawat220804/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushrawat220804/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayushrawat220804/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -213,6 +214,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ayushrawat220804/Leet-Code/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushrawat220804/Leet-Code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Indexed Tree
@@ -233,6 +235,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ayushrawat220804/Leet-Code/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -288,6 +291,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1876-map-of-highest-peak](https://github.com/ayushrawat220804/Leet-Code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ayushrawat220804/Leet-Code/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushrawat220804/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
