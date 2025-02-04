@@ -80,6 +80,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushrawat220804/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushrawat220804/Leet-Code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushrawat220804/Leet-Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/ayushrawat220804/Leet-Code/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
