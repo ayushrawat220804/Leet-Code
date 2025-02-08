@@ -61,6 +61,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/ayushrawat220804/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushrawat220804/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
