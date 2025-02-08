@@ -117,6 +117,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/ayushrawat220804/Leet-Code/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushrawat220804/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -161,6 +162,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushrawat220804/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushrawat220804/Leet-Code/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/ayushrawat220804/Leet-Code/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayushrawat220804/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -335,4 +337,12 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/ayushrawat220804/Leet-Code/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushrawat220804/Leet-Code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ayushrawat220804/Leet-Code/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ayushrawat220804/Leet-Code/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
