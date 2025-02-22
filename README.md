@@ -30,6 +30,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushrawat220804/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushrawat220804/Leet-Code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/1524-string-matching-in-an-array) |
@@ -249,6 +250,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ayushrawat220804/Leet-Code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -259,6 +261,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0684-redundant-connection](https://github.com/ayushrawat220804/Leet-Code/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ayushrawat220804/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ayushrawat220804/Leet-Code/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ayushrawat220804/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ayushrawat220804/Leet-Code/tree/master/1558-course-schedule-iv) |
@@ -304,6 +307,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
 |  |
