@@ -76,6 +76,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ayushrawat220804/Leet-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayushrawat220804/Leet-Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/ayushrawat220804/Leet-Code/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushrawat220804/Leet-Code/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ayushrawat220804/Leet-Code/tree/master/1063-best-sightseeing-pair) |
@@ -122,6 +123,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushrawat220804/Leet-Code/tree/master/0001-two-sum) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/ayushrawat220804/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -250,6 +252,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ayushrawat220804/Leet-Code/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -307,6 +310,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushrawat220804/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
@@ -386,4 +390,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ayushrawat220804/Leet-Code/tree/master/2434-design-a-number-container-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
