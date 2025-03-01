@@ -24,6 +24,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0031-next-permutation](https://github.com/ayushrawat220804/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushrawat220804/Leet-Code/tree/master/0075-sort-colors) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ayushrawat220804/Leet-Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2465-shifting-letters-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushrawat220804/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushrawat220804/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushrawat220804/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
@@ -231,6 +233,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushrawat220804/Leet-Code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayushrawat220804/Leet-Code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ayushrawat220804/Leet-Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
