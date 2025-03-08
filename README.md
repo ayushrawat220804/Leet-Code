@@ -50,6 +50,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2300-construct-string-with-repeat-limit](https://github.com/ayushrawat220804/Leet-Code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushrawat220804/Leet-Code/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushrawat220804/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushrawat220804/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ayushrawat220804/Leet-Code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -222,6 +223,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Sliding Window
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushrawat220804/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
