@@ -1,3 +1,8 @@
+// sliding window problem 
+// tc = o(n*k)
+// sc = o(1)
+
+
 class Solution {
 public:
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
