@@ -35,6 +35,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/ayushrawat220804/Leet-Code/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushrawat220804/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushrawat220804/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushrawat220804/Leet-Code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ayushrawat220804/Leet-Code/tree/master/1524-string-matching-in-an-array) |
@@ -147,6 +148,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [0952-word-subsets](https://github.com/ayushrawat220804/Leet-Code/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/ayushrawat220804/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushrawat220804/Leet-Code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushrawat220804/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushrawat220804/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayushrawat220804/Leet-Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushrawat220804/Leet-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -226,6 +228,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushrawat220804/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushrawat220804/Leet-Code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayushrawat220804/Leet-Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
