@@ -140,6 +140,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushrawat220804/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayushrawat220804/Leet-Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2465-shifting-letters-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushrawat220804/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
