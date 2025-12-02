@@ -144,6 +144,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushrawat220804/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3623-count-number-of-trapezoids-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushrawat220804/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushrawat220804/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ayushrawat220804/Leet-Code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3623-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayushrawat220804/Leet-Code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushrawat220804/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3623-count-number-of-trapezoids-i) |
 ## Stack
 |  |
 | ------- |
@@ -448,4 +451,8 @@ A big shoutout to the developer of LeetHub for building such an awesome tool! It
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushrawat220804/Leet-Code/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/ayushrawat220804/Leet-Code/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
